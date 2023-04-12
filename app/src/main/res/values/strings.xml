@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">kompas2</string>
+    <string name="show_map">Show Map</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="descjogja">Jogja is the capital as well as the center of government and economy of the Special Region of Yogyakarta, Indonesia. This city is a big city that maintains the concept of traditional and Javanese culture.</string>
+    <string name="change_language">change language</string>
+    <string name="about">About</string>
+    <string name="descsolo">Solo is a city in Central Java, Indonesia, with a population of 522,364 (2020), a density of 11,861.00/km2[8], and an area of ​​44.04 km2. This city is also the third largest city in the southern part of Java after Bandung and Malang by population. The east side of this city is crossed by a river which is immortalized in one of the keroncong songs, Bengawan Solo. This city is included in the Solo Raya area, as the main city.</string>
+    <string name="title_activity_maps_semarang">MapsSemarang</string>
+    <string name="descsemarang">Semarang is the fifth largest metropolitan city in Indonesia after Jakarta, Surabaya, Bandung and Medan. As one of the developing cities on the island of Java, the city of Semarang has a population of around 1.6 million people.[3] The Semarang mega-urban area which is part of the Kedungsepur metropolitan area (Kendal Regency, Demak Regency, Ungaran Semarang Regency, Salatiga City, Semarang City, and Purwodadi Grobogan Regency) has a population of 7.3 million people, as well as the fourth most populous metropolitan area in Indonesia. , after Jabodetabek (Jakarta), Gerbangkertosusilo (Surabaya), and Bandung Raya.</string>
+
+</resources>

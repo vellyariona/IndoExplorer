@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kompas2</string>
+    <string name="show_map">Tampilkan Peta</string>
+    <string name="appwidget_text">contoh</string>
+    <string name="add_widget">app widget</string>
+    <string name="app_widget_description">ini adalah deskripsi app widget</string>
+    <string name="descjogja">Jogja adalah ibu kota sekaligus pusat pemerintahan dan perekonomian dari Daerah Istimewa Yogyakarta, Indonesia. Kota ini adalah kota besar yang mempertahankan konsep tradisional dan budaya Jawa.</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="about">Tentang</string>
+    <string name="descsolo">Solo adalah kota di Jawa Tengah, Indonesia, dengan penduduk 522.364 jiwa (2020), kepadatan 11.861,00/km2[8], dan luas 44,04 km2. Kota ini juga merupakan kota terbesar ketiga di pulau Jawa bagian Selatan setelah Bandung dan Malang menurut jumlah penduduk. Sisi Timur kota ini dilewati sungai yang terabadikan dalam salah satu lagu keroncong, Bengawan Solo. Kota ini termasuk dalam kawasan Solo Raya, sebagai kota utama.</string>
+    <string name="title_activity_maps_semarang">MapsSemarang</string>
+    <string name="descsemarang">Semarang adalah kota metropolitan terbesar kelima di Indonesia setelah Jakarta, Surabaya, Bandung, dan Medan. Sebagai salah satu kota yang berkembang di Pulau Jawa, Kota Semarang mempunyai jumlah penduduk sekitar 1,6 juta jiwa.[3] Kawasan mega-urban Semarang yang tergabung dalam wilayah metropolitan Kedungsepur (Kabupaten Kendal, Kabupaten Demak, Ungaran Kabupaten Semarang, Kota Salatiga, Kota Semarang, dan Purwodadi Kabupaten Grobogan) berpenduduk mencapai 7,3 juta jiwa, sekaligus sebagai wilayah metropolitan berpenduduk terbanyak keempat di Indonesia, setelah Jabodetabek (Jakarta), Gerbangkertosusilo (Surabaya), dan Bandung Raya.</string>
+</resources>
